@@ -3,5 +3,17 @@
 Clone the template:
 
 ```bash
-pnpx branxy/react-vite-starter .
+pnpx degit branxy/react-vite-starter .
+```
+
+Install dependencies:
+
+```bash
+pnpm i
+```
+
+Run:
+
+```bash
+pnpm dev
 ```
